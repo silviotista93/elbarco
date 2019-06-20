@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-dev/themes/default/template/controllers/carrier_wizard/helpers/form/form.tpl" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      <trans-unit id="11a5324fcccfa07ed027b0226bbf5ee1" approved="yes">
+        <source>Reordering</source>
+        <target state="translated">Reordenando</target>
+        <note>Line: 35</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/carrier_wizard/helpers/view/view.tpl" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      <trans-unit id="f3fb906c0bd487b3341bc200d23e8faf" approved="yes">
+        <source>Ranges are overlapping</source>
+        <target state="translated">Los rangos se superponen</target>
+        <note>Line: 44</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="admin-dev/themes/default/template/controllers/carrier_wizard/logo.tpl" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCarrierWizardController.php" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="controllers/admin/AdminCarriersController.php" source-language="en" target-language="es-MX" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+</xliff>
